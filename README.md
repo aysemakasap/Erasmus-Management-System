@@ -8,10 +8,10 @@ An Erasmus management web application that provides fundamental functionalities 
 Features:
 
 -User Profile System: An interface to see communication information of students, department coordinators and program coordinators.
--Student Placement System: A system to place student into eligible, suitable and prefered to partner universities.
+-Student Placement System: A system to place student into eligible, suitable and prefered partner universities.
 -File Management System: An interface to support the document stream within the system. 
 -Application Status Display System: An interface that allows students to track their application process.
--Academic Approval System: A system that allows supervisors to 
+-Academic Approval System: A system that allows supervisors to approve or disapprove the current application for Erasmus or Exchange
 -Waitlist System: A system to keep unplaced students in a wait list incase of any available quota. 
 
 
